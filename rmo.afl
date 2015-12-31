@@ -1,4 +1,8 @@
-# RMO-ATM-For-AmiBroker
+/* brokeyforamibroker.blogspot.in
+Facebook.com/brokeyforamibroker
+Twitter.com/broforamibroker
+Google.com/+brokeyforamibroker
+brokeyforamibroker@gmail.com */
 _SECTION_BEGIN("RMO");
 SwingTrd1 = 100 * (Close - ((MA(C,2)+
 MA(MA(C,2),2)+
